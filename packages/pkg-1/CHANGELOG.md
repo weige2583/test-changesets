@@ -1,5 +1,18 @@
 # @weige2583/pkg-1
 
+## 1.0.4
+
+### Patch Changes
+
+- 测试 6.changeset
+- 测试 5.changeset
+
+## 1.0.3
+
+### Patch Changes
+
+- 测试 3.changeset
+
 ## 1.0.2
 
 ### Patch Changes
