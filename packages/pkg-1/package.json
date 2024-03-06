@@ -1,8 +1,13 @@
 {
-  "name": "@test-changesets/pkg-1",
+  "name": "@weige2583/pkg-1",
   "version": "1.0.0",
+  "private": false,
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
