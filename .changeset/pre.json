@@ -1,0 +1,12 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@weige2583/pkg-1": "1.0.4",
+    "@weige2583/pkg-2": "1.0.4"
+  },
+  "changesets": [
+    "gorgeous-knives-search",
+    "loud-paws-fry"
+  ]
+}
