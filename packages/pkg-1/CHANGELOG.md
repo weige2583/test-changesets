@@ -1,5 +1,13 @@
 # @weige2583/pkg-1
 
+## 1.0.5
+
+### Patch Changes
+
+- d9c8859: pre alpha 1.0.5
+- d9c8859: alpha1
+- 9768216: alpha2
+
 ## 1.0.5-alpha.2
 
 ### Patch Changes
