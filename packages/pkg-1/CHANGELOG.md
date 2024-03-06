@@ -1,5 +1,11 @@
 # @weige2583/pkg-1
 
+## 1.0.5-alpha.2
+
+### Patch Changes
+
+- alpha2
+
 ## 1.0.5-alpha.1
 
 ### Patch Changes
