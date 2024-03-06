@@ -1,5 +1,11 @@
 # @weige2583/pkg-2
 
+## 1.0.6
+
+### Patch Changes
+
+- test when verson will be update to package
+
 ## 1.0.5
 
 ### Patch Changes
